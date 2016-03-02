@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="WeekDayTextAppearance">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@color/lightTxtColor</item>
+    </style>
+
+    <style name="WeekDayTextAppearanceDark">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@color/darkTxtColor</item>
+    </style>
+
+    <style name="WeekEndTextAppearance">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@color/lightTxtColor</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="WeekEndTextAppearanceDark">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@color/weekendDarkTxtColor</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="WeekDayDateTextAppearance">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@color/lightTxtColor</item>
+    </style>
+
+    <style name="WeekDayDateTextAppearanceDark">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@color/darkTxtColor</item>
+    </style>
+
+    <style name="WeekEndDateTextAppearance">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@color/lightTxtColor</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="WeekEndDateTextAppearanceDark">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@color/weekendDarkTxtColor</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="FunStyle">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@android:color/holo_red_dark</item>
+    </style>
+</resources>

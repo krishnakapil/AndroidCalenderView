@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/sun_txt"
+        android:layout_width="@dimen/tileSize"
+        android:layout_height="@dimen/tileSize"
+        android:gravity="center"
+        android:text="Sun"/>
+
+    <Space
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:id="@+id/mon_txt"
+        android:layout_width="@dimen/tileSize"
+        android:layout_height="@dimen/tileSize"
+        android:gravity="center"
+        android:text="Mon"/>
+
+    <Space
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:id="@+id/tue_txt"
+        android:layout_width="@dimen/tileSize"
+        android:layout_height="@dimen/tileSize"
+        android:gravity="center"
+        android:text="Tue"/>
+
+    <Space
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:id="@+id/wed_txt"
+        android:layout_width="@dimen/tileSize"
+        android:layout_height="@dimen/tileSize"
+        android:gravity="center"
+        android:text="Wed"/>
+
+    <Space
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:id="@+id/thu_txt"
+        android:layout_width="@dimen/tileSize"
+        android:layout_height="@dimen/tileSize"
+        android:gravity="center"
+        android:text="Thu"/>
+
+    <Space
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:id="@+id/fri_txt"
+        android:layout_width="@dimen/tileSize"
+        android:layout_height="@dimen/tileSize"
+        android:gravity="center"
+        android:text="Fri"/>
+
+    <Space
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:id="@+id/sat_txt"
+        android:layout_width="@dimen/tileSize"
+        android:layout_height="@dimen/tileSize"
+        android:gravity="center"
+        android:text="Sat"/>
+
+</LinearLayout>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="WeekDayTextAppearance">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@color/lightTxtColor</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <style name="WeekDayTextAppearanceDark">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@color/darkTxtColor</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <style name="WeekEndTextAppearance">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@color/lightTxtColor</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="WeekEndTextAppearanceDark">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@color/weekendDarkTxtColor</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="WeekDayDateTextAppearance">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@color/lightTxtColor</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <style name="WeekDayDateTextAppearanceDark">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@color/darkTxtColor</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <style name="WeekEndDateTextAppearance">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@color/lightTxtColor</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="WeekEndDateTextAppearanceDark">
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@color/weekendDarkTxtColor</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lightBg">#ffffff</color>
+    <color name="lightBgSelected">#c2c1c1</color>
+    <color name="darkBg">#262626</color>
+    <color name="darkBgSelected">#ffffff</color>
+    <color name="lightTxtColor">#000000</color>
+    <color name="darkTxtColor">#ececec</color>
+    <color name="weekendDarkTxtColor">#7d7d7e</color>
+</resources>

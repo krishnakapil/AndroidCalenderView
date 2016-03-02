@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              android:paddingBottom="15dp"
+              android:paddingLeft="10dp"
+              android:paddingRight="10dp">
+
+    <include
+        android:id="@+id/day_layout"
+        layout="@layout/calendar_row"/>
+
+    <include
+        android:id="@+id/date_one_layout"
+        layout="@layout/calendar_row"/>
+
+    <include
+        android:id="@+id/date_two_layout"
+        layout="@layout/calendar_row"/>
+
+    <include
+        android:id="@+id/date_three_layout"
+        layout="@layout/calendar_row"/>
+
+    <include
+        android:id="@+id/date_four_layout"
+        layout="@layout/calendar_row"/>
+
+    <include
+        android:id="@+id/date_five_layout"
+        layout="@layout/calendar_row"/>
+
+</LinearLayout>
